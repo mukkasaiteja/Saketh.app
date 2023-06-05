@@ -1,0 +1,57 @@
+.navbar{
+    background-color: #00AB08;
+    display: grid;
+    grid-template-columns: 20% 40% 20%;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+.Logo{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 40px;
+    font-weight: 800;
+    color: white;
+}
+.nav-iteams{
+    display: flex;
+    gap: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 20px;
+}
+i{
+    margin-left: 30px;
+    color: white;
+    cursor: pointer;
+
+}
+.forhover:hover{
+    color: white;
+}
+i:hover{
+    color: blue;
+}
+.home{
+    color: red;
+}
+.fa-instagram:hover{
+    color: red;
+}
+.link{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+/* .search{
+   
+} */
+.fa-solid{
+   margin-right: 10px;
+}
+input{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+}
