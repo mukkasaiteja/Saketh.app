@@ -3,13 +3,13 @@ import React from 'react'
 function Hibiscus() {
   return (
     <div>
-    <div style={{backgroundColor:"black ",color:"white" ,height:"1000px"}}>
+    <div style={{backgroundColor:"black ",color:"white" ,height:"100%" ,padding:"30px"}}>
    <div style={{textAlign:'center',margin:'20px'}}>
-       <h2>Rose</h2><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/330px-Rosa_rubiginosa_1.jpg" height={200} width={200} alt="" /></div>
+       <h2 style={{margin:"none"}}>Rose</h2><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/330px-Rosa_rubiginosa_1.jpg" height={200} width={200} alt="" /></div>
 <div style={{backgroundColor:"black ",color:"white",height:'600px'}} >
    <h4 style={{textAlign:"center"}}>Description :-</h4>
    <p style={{margin:"30px"}}>
-   rose is either a woody perennial flowering plant of the genus Rosa (/ˈroʊzə/),[1] in the family Rosaceae (/roʊˈzeɪsiːˌiː/),[1] or the flower it bears. There are over three hundred species and tens of thousands of cultivars.[citation needed] They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.[2] Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds.
+   rose is either a woody perennial flowering plant of the genus Rosa (/ˈroʊzə/), in the family Rosaceae (/roʊˈzeɪsiːˌiː/),or the flower it bears. There are over three hundred species and tens of thousands of cultivars.[citation needed] They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds.
 
    </p>
   
