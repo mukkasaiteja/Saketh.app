@@ -40,7 +40,7 @@ const goTo=()=>{
            <img src="https://rukminim1.flixcart.com/image/416/416/kgpg5u80/plant-seed/w/j/r/100-ct-126-premium-f1-hybrid-cherry-tamoto-potent-100-original-imafwvszdzwzhyqx.jpeg?q=70" alt="" />
 
 <h4>TOMATO</h4>
-<p>The tomato (/təmeɪtoʊ/ or /təmɑːtoʊ/) is the edible berry of the plant Solanum lycopersicum,[1][2] commonly known as the tomato plant. The species originated in western South America, Mexico, and Central America.[2][3] The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived.[3][4] Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico.</p>
+<p>The tomato (/təmeɪtoʊ/ or /təmɑːtoʊ/) is the edible berry of the plant Solanum lycopersicum, commonly known as the tomato plant. The species originated in western South America, Mexico, and Central America. The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico.</p>
 <button  onClick={tomato}>click here</button>
            </div>
 
@@ -50,7 +50,7 @@ const goTo=()=>{
            <img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTqekFLnfEnL9VojJLADU_B6208UVUHgH2O77txSLMphp8VyM2dIs6XgGVjHg3MA7aWWwnExPVbu8_aqas" alt="" />
 
 <h4>Mango</h4>
-<p>A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands.[1] M. indica has been cultivated in South and Southeast Asia since ancient times resulting in two types of modern mango cultivars. </p>
+<p>A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands. M. indica has been cultivated in South and Southeast Asia since ancient times resulting in two types of modern mango cultivars. </p>
 <button onClick={goTo}>click here</button>
            </div>
 

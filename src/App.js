@@ -11,6 +11,7 @@ import Tomato from './components/Tomato';
 import Rose from './components/Rose';
 import New from './components/New';
 import { Routes ,Route} from 'react-router-dom';
+import './components/New.css'
 
 
 

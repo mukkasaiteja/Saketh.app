@@ -22,7 +22,7 @@ function Fruits() {
        <img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTqekFLnfEnL9VojJLADU_B6208UVUHgH2O77txSLMphp8VyM2dIs6XgGVjHg3MA7aWWwnExPVbu8_aqas" alt="" />
 
 <h4>Mango</h4>
-<p>A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands.[1] M. indica has been cultivated in South and Southeast Asia since ancient times resulting in two types of modern mango cultivars. </p>
+<p>A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It is believed to have originated in southern Asia, particularly in eastern India, Bangladesh, and the Andaman Islands M. indica has been cultivated in South and Southeast Asia since ancient times resulting in two types of modern mango cultivars. </p>
 <button onClick={goTo}>click here</button>
        </div>
 

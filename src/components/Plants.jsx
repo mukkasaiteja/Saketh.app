@@ -19,7 +19,7 @@ navigate('/Rose')
        <img src="https://m.media-amazon.com/images/I/51y0E3bJMgL.jpg" alt="" />
 
 <h4>Rose</h4>
-<p>A rose is either a woody perennial flowering plant of the genus Rosa (/ˈroʊzə/),[1] in the family Rosaceae (/roʊˈzeɪsiːˌiː/),[1] or the flower it bears. There are over three hundred species and tens of thousands of cultivars.[citation needed] They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.</p>
+<p>A rose is either a woody perennial flowering plant of the genus Rosa (/ˈroʊzə/), in the family Rosaceae (/roʊˈzeɪsiːˌiː/),or the flower it bears. There are over three hundred species and tens of thousands of cultivars.[citation needed] They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.</p>
 <button onClick={Rose}>click here</button>
        </div>
 

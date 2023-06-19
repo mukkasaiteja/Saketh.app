@@ -13,9 +13,9 @@ function Nav() {
            <Link className='link' to='/fruits'> <section className='forhover'>Fruits</section></Link>
 
            <section className="search">
-          <input type="text" placeholder='enter a name'/><i class="fa-solid fa-magnifying-glass"></i>
+          <input type="text" placeholder='enter a name'/>
         </section>
-        <section className="icone"></section>
+     
            
         </section>
     
