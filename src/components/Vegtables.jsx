@@ -37,7 +37,7 @@ Wild potato species can be found from the southern United States to southern Chi
        <img src="https://rukminim1.flixcart.com/image/416/416/kgpg5u80/plant-seed/w/j/r/100-ct-126-premium-f1-hybrid-cherry-tamoto-potent-100-original-imafwvszdzwzhyqx.jpeg?q=70" alt="" />
 
 <h4>Tomato</h4>
-<p>The tomato (/təmeɪtoʊ/ or /təmɑːtoʊ/) is the edible berry of the plant Solanum lycopersicum, commonly known as the tomato plant. The species originated in western South America, Mexico, and Central America. The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico.</p>
+<p>The tomato (/təmeɪtoʊ/ or /təmɑːtoʊ/) is the edible berry of the plant Solanum lycopersicum, commonly known as the tomato plant. The species originated in western South America, Mexico, and Central America. The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived.ru Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico.</p>
 <button onClick={tomato}>click here</button>
        </div>
 

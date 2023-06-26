@@ -1,4 +1,10 @@
 p{
-    font-family: 'Roboto Mono', monospace;
-    font-family: 'Teko', sans-serif;
+    font-family: 'belanosima', monospace;
+    font-family: 'Teko', 'belanosima';
+    font-weight: bold;
+    font-size: 20px;
+}
+li{
+    font-weight: bold;
+    font-size: 15pnpm x;
 }
